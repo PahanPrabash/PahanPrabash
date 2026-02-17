@@ -103,6 +103,4 @@ Learning for me is hands-on:
 
 ---
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1e1e2f,100:0f4c81" />
-</p>
+
